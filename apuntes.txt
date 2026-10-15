@@ -1,1 +1,2 @@
 git guarda el historial de cambios 
+un commit una nota de cada cambio
